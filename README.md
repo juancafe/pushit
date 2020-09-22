@@ -1,2 +1,2 @@
 # pushit
-1er archivo geneado en el repositorio
+1er archivo generado en el repositorio
